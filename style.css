@@ -1,0 +1,231 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: 2000;
+  font-size: 35px;
+  color: rgb(39, 35, 35);
+}
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 2000;
+  font-size: 27px;
+  color: rgb(39, 35, 35);
+}
+#myear {
+  font-weight: bolder;
+  color: gray;
+  font-size: 30px;
+  font-weight: 1300;
+}
+.year {
+  color: rgb(43, 146, 177);
+  font-weight: 1200;
+  font-size: 30px;
+}
+#bleft {
+  border-image: linear-gradient(blue, cyan);
+  border-image-slice: 1;
+  border-left: 3px solid;
+  padding-left: 1%;
+}
+.welcome img {
+  width: 65%;
+  margin-top: 35px;
+}
+.welflex {
+  display: flex;
+  margin-bottom: 50px;
+}
+.welcome {
+  width: 50%;
+  padding: 80px 20px;
+  padding-left: 10%;
+}
+.pad1 {
+  padding: 50px 40px;
+}
+#about-me {
+  text-decoration: none;
+  background-image: linear-gradient(blue, skyblue);
+  color: whitesmoke;
+  font-weight: 300;
+  border-radius: 5px;
+  padding: 7px 20px;
+  font-size: 10px;
+}
+h6 {
+  font-weight: 500;
+}
+#my-focus {
+  text-align: center;
+  font-weight: 1500;
+  font-size: 40px;
+}
+#fyear {
+  color: rgb(141, 209, 230);
+  font-weight: 1200;
+  font-size: 25px;
+}
+.box3 {
+  display: flex;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.mission {
+  background-color: rgb(219, 237, 241);
+  border-radius: 5%;
+}
+.vision {
+  background-color: rgb(224, 235, 224);
+  border-radius: 5%;
+}
+.goals {
+  background-color: rgb(231, 219, 220);
+  border-radius: 5%;
+}
+.width-3 {
+  width: 30%;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  padding-right: 2%;
+  padding-left: 2%;
+}
+.image-3 {
+  width: 35%;
+  padding-top: 1%;
+}
+.develop {
+  background-image: url(imagebg/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: 7%;
+}
+.devflex {
+  display: flex;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+#read {
+  text-decoration: none;
+  background-image: linear-gradient(blue, skyblue);
+  color: whitesmoke;
+  font-weight: 300;
+  border-radius: 5px;
+  padding: 7px 20px;
+  font-size: 10px;
+}
+.try {
+  font-weight: 1200;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 25px;
+}
+.trymergin {
+  margin-right: 5%;
+  margin-left: 8%;
+  padding-top: 45px;
+  padding-bottom: 45px;
+}
+.trymergin img {
+  width: 100%;
+  border-radius: 12px;
+}
+#doc {
+  text-decoration: none;
+  background-image: linear-gradient(blue, skyblue);
+  color: whitesmoke;
+  font-weight: 300;
+  border-radius: 5px;
+  padding: 7px 20px;
+  font-size: 10px;
+}
+.community {
+  font-weight: 1200;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+}
+.comflex {
+  display: flex;
+  margin-right: 5%;
+  margin-left: 5%;
+  padding-right: 7%;
+  padding-left: 7%;
+}
+#class img {
+  width: 117%;
+  border-radius: 10px;
+}
+.compad {
+  margin-left: 20px;
+  margin-right: 16px;
+  margin-top: 5%;
+  padding-top: 20px;
+  padding-bottom: 25px;
+  padding-left: 10%;
+}
+.com-back {
+  background-image: url(imagebg/shape-1.png);
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  background-size: 10%;
+}
+#class {
+  margin-left: auto;
+  margin-top: auto;
+  padding-left: 27%;
+  padding-bottom: 17%px;
+}
+.our {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: 1500;
+  font-size: 30px;
+}
+#app {
+  color: rgb(43, 146, 177);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: 1500;
+  font-size: 30px;
+}
+.our-app {
+  text-align: center;
+  color: darkslategrey;
+}
+.ph {
+  color: red;
+}
+.app-flex {
+  display: flex;
+  padding-right: 10%;
+  padding-left: 10%;
+}
+#feature {
+  text-decoration: none;
+  background-image: linear-gradient(blue, skyblue);
+  color: whitesmoke;
+  font-weight: 300;
+  border-radius: 5px;
+  padding: 7px 20px;
+  font-size: 10px;
+}
+.app-pad {
+  margin-bottom: 110px;
+}
+.f-back {
+  background-color: dimgray;
+  background-size: auto;
+}
+.f-all {
+  text-align: center;
+}
+#m-font {
+  font-family: "Pacifico", cursive;
+  color: darkgrey;
+}
+footer {
+  padding-bottom: 10px;
+}
